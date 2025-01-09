@@ -1,0 +1,15 @@
+div,div_code
+from_date,from_date
+to_date,to_date
+item_code,item_code
+acc_code,acc_code
+discount_basis,RATE_BASIS
+discount_rate,UNAPP_IRATE2
+rate_with_tax,RATE_WITH_TAX
+tax_rate,UNAPP_IRATE1
+rate,UNAPP_RATE
+mis_code,ACC_MIS_CODE
+rea_code,AREA_CODE
+CURRENCY_CODE,CURRENCY_CODE
+USER_CODE,USER_CODE
+SYSDATE,LASTUPDATE
